@@ -6,8 +6,6 @@ import CardContextProvider from '../context/CardContext.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <CardContextProvider>
     <App />
-    </CardContextProvider>
   </StrictMode>,
 )
