@@ -1,5 +1,4 @@
-import React, { useContext } from 'react'
-import { CardContext } from '../context/CardContext'
+import React from 'react'
 
 const TodoCard = (props) => {
 
